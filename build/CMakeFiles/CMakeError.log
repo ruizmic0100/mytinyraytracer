@@ -1,0 +1,30 @@
+Performing C++ SOURCE FILE Test flag_supported failed with the following output:
+Change Dir: /home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b6405/fast && /usr/bin/make -f CMakeFiles/cmTC_b6405.dir/build.make CMakeFiles/cmTC_b6405.dir/build
+make[1]: Entering directory '/home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b6405.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wextra -Dflag_supported   -pendantic -o CMakeFiles/cmTC_b6405.dir/src.cxx.o -c /home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-pendantic'; did you mean '-pedantic'?
+make[1]: *** [CMakeFiles/cmTC_b6405.dir/build.make:66: CMakeFiles/cmTC_b6405.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_b6405/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test flag_supported failed with the following output:
+Change Dir: /home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e9257/fast && /usr/bin/make -f CMakeFiles/cmTC_e9257.dir/build.make CMakeFiles/cmTC_e9257.dir/build
+make[1]: Entering directory '/home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e9257.dir/src.cxx.o
+/usr/bin/c++    -Wall -Wextra -Dflag_supported   -pendantic -o CMakeFiles/cmTC_e9257.dir/src.cxx.o -c /home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-pendantic'; did you mean '-pedantic'?
+make[1]: *** [CMakeFiles/cmTC_e9257.dir/build.make:66: CMakeFiles/cmTC_e9257.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/ghostrunner/mytinyraytracer/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e9257/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }

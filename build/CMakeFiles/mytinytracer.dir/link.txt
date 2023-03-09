@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++11 -O3 -fopenmp  -rdynamic CMakeFiles/mytinytracer.dir/mytinytracer.cpp.o  -o mytinytracer 

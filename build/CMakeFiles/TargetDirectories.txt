@@ -1,0 +1,3 @@
+/home/ghostrunner/mytinyraytracer/build/CMakeFiles/rebuild_cache.dir
+/home/ghostrunner/mytinyraytracer/build/CMakeFiles/edit_cache.dir
+/home/ghostrunner/mytinyraytracer/build/CMakeFiles/mytinytracer.dir
